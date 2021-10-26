@@ -58,7 +58,7 @@ class Form{
       
               });
              //reload the window
-             this.location.reload();
+             window.location.reload();
             });
           }
           //BP
